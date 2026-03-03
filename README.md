@@ -1,3 +1,2 @@
 # Training
 
-![Bandz](Bandz.jpg)
